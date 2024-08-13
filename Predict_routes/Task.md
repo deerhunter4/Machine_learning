@@ -15,7 +15,7 @@ We want to build a model that, given a pair of routes, assesses whether they are
 
 Routes examples, the magenta route is the real route while black route is the estimated route.
 
-![example_1](https://i.imgur.com/gBVdzQX.png)
+![Routes_example](Predict_routes/Routes_example.png)
 
 
 **Data description**
